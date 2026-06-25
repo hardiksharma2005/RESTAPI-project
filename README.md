@@ -7,6 +7,24 @@ A production-ready REST API built with FastAPI and powered by Groq's llama-3.1-8
 
 ---
 
+## 🚀 Live Demo
+
+The API is deployed and live on Render:
+
+| | Link |
+|---|---|
+| 🌐 **Interactive API Docs (Swagger)** | https://restapi-project-fnpv.onrender.com/docs |
+| 📄 **ReDoc Documentation** | https://restapi-project-fnpv.onrender.com/redoc |
+| ❤️ **Health Check** | https://restapi-project-fnpv.onrender.com/ |
+| 🤖 **Summarize Endpoint** | https://restapi-project-fnpv.onrender.com/api/v1/summarize/ |
+| 🌍 **Translate Endpoint** | https://restapi-project-fnpv.onrender.com/api/v1/translate/ |
+| ✉️ **Generate Email Endpoint** | https://restapi-project-fnpv.onrender.com/api/v1/generate-email/ |
+
+> ⚠️ **Note:** Hosted on Render free tier — first request after inactivity
+> may take 30–60 seconds to wake up. Subsequent requests are fast.
+
+---
+
 ## Features
 
 - **3 AI-powered endpoints** — text summarization, language translation, and email generation

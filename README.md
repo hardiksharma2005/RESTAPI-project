@@ -4,7 +4,6 @@ A production-ready REST API built with FastAPI and powered by Groq's llama-3.1-8
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
 
@@ -285,9 +284,3 @@ Once the server is running, interactive documentation is available at:
 | Pydantic v2     | 2.0+     | Data validation and settings management      |
 | Python-dotenv   | 1.0+     | `.env` file loading                          |
 | Pytest          | 7.0+     | Test framework                               |
-
----
-
-## License
-
-MIT License — see [LICENSE](LICENSE) for details.
